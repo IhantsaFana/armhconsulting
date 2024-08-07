@@ -1,0 +1,263 @@
+.logo1 {
+  width: 100px;
+}
+
+#accueil {
+  position: relative;
+  background: url("../../assets/img/The-beauty-of-Madagascar-header.png") center / cover no-repeat;
+  width: 100%;
+}
+
+.jkl {
+  margin-top: 25vh;
+  margin-bottom: 25vh;
+}
+
+.nav-item {
+  text-align: center;
+  font-size: 20px;
+}
+
+.navbar-nav {
+  font-size: 20px;
+}
+
+.nav-item:hover {
+  border-bottom: 3px solid var(--bs-primary) ;
+  border-radius: 3px;
+  transition: 2s;
+}
+
+.sclgn {
+  width: 100%;
+  position: relative;
+  background: url("../../assets/img/vague-fond-mer-plage_1339-4265.avif") center / cover no-repeat;
+}
+
+.auteur {
+  text-align: right;
+}
+
+.citation {
+  width: 100%;
+  color: rgb(255,255,255);
+}
+
+.texte {
+  text-align: justify;
+}
+
+.thirdln {
+  position: relative;
+  width: 100%;
+  background: url("../../assets/img/042b600e4973c4623ecbda77cbdb88c4.jpeg") center / cover no-repeat;
+  background-attachment: fixed;
+}
+
+.citation.ct2 {
+  max-width: 30em;
+  width: 100%;
+  padding-top: 5vh;
+  font-size: 20px;
+}
+
+.icon_citation {
+  font-size: 10vh;
+  border-bottom-color: var(--bs-white);
+}
+
+ul {
+  text-align: left;
+}
+
+.fhksdj {
+  font-size: 1.2em;
+}
+
+li {
+  font-size: 1.2em;
+}
+
+.sjdh {
+  background: url("../../assets/img/belle-vue-paysage-naturel_23-2150787996.avif") center / cover no-repeat;
+}
+
+.apps {
+  background: url("../../assets/img/vague-fond-mer-plage_1339-4265.avif") center / cover no-repeat;
+}
+
+.hrgg {
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  color: var(--bs-black);
+  font-size: 20px;
+}
+
+.linklocal {
+  text-decoration: none;
+}
+
+.fuqezif {
+  background: url("../../assets/img/2wpwgl.jpg") center / cover no-repeat;
+  background-attachment: fixed;
+}
+
+.tttarmh {
+  font-size: 2em;
+}
+
+.rina {
+  height: 300px;
+  width: auto;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 1em;
+  float: left;
+}
+
+.jhd {
+  background: rgba(1,1,1,0.77);
+}
+
+.imgggg {
+  margin-bottom: 2em;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  max-height: 246px;
+  max-width: 328px;
+  width: 100%;
+}
+
+.txtsrv {
+  width: 100%;
+  font-size: 20px;
+  border-color: rgb(255,255,255);
+}
+
+#services {
+  background: url("../../assets/img/vague-fond-mer-plage_1339-4265.avif") center / cover no-repeat;
+}
+
+.textern {
+  font-size: 20px;
+  text-align: justify;
+}
+
+.jfqgfy {
+  width: 100%;
+}
+
+.hjkjhm {
+  background: rgba(0,0,0,0.34);
+}
+
+.partenaire {
+  max-height: 200px;
+  height: 101px;
+  width: auto;
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  cursor: pointer;
+}
+
+.tablecnfc {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.imguheu {
+  height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.uhuhuh {
+  display: flex;
+}
+
+.udfu {
+  width: 80%;
+}
+
+.alfa {
+  background: rgba(0,0,0,0.6);
+}
+
+.itemcfc img {
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 150px;
+  width: 100%;
+}
+
+.itemcfc {
+  padding-bottom: 30px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.alb {
+  height: 200px;
+  max-width: 266px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.album {
+  width: fit-content;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sansStl {
+  text-decoration: none;
+  color: white;
+}
+
+.ysdt {
+  background: url("../../assets/img/2shjwo.jpg") center / cover no-repeat;
+  background-attachment: fixed;
+}
+
+#famtrip {
+  background: rgba(0,0,0,0.68);
+}
+
+/* btn */
+#scrollToTopBtn {
+  display: none; /* Masquer le bouton par défaut */
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+  font-size: 16px;
+  background-color: rgb(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+  border-radius: 30%;
+}
+
+#scrollToTopBtn:hover {
+  background-color: #0056b3;
+}
